@@ -8,6 +8,9 @@
 - Murni Bootstrap v3.3.4
 - Highchart v4.1.4
 
+## Coba Demo
+- Lihat demo -> [Demo GIS](http://zulfin.web.id/lihatgis)
+
 ## Instalasi
 - Download -> [Klik Disini](https://github.com/zulfinjuliant/template-bs3-gis/archive/master.zip)
 - Jalankan via browser, ketik http://127.0.0.1/template-bs3-gis
