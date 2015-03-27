@@ -8,12 +8,8 @@
 - Murni Bootstrap 3.3.4
 
 ## Instalasi
-- Download / clone Bootangular disini [Github Bootangular-V2](https://github.com/zulfinjuliant/bootangular-v2)
-- Rename folder dengan nama "bootangular-v2"
-- Taruh di htdocs local web server (pastikan sudah terinstall XAMPP/WAMP)
-
-## Testing
-- Jalankan via browser, ketik http://127.0.0.1/bootangular-v2 atau http://localhost/bootangular-v2
+- Download -> [Klik Disini](https://github.com/zulfinjuliant/template-bs3-gis/archive/master.zip)
+- Jalankan via browser, ketik http://127.0.0.1/template-bs3-gis
 
 ## Lisensi
 - [GNU GPL V3](https://github.com/zulfinjuliant/template-bs3-gis/blob/master/LICENSE)
