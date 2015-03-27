@@ -5,7 +5,8 @@
 ![gambar grafik dua](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Screenshot-Web%20App%20GIS%20-%20Chromium-2_zpswcspui44.png)
 
 ## Keterangan
-- Murni Bootstrap 3.3.4
+- Murni Bootstrap v3.3.4
+- Highchart v4.1.4
 
 ## Instalasi
 - Download -> [Klik Disini](https://github.com/zulfinjuliant/template-bs3-gis/archive/master.zip)
