@@ -1,0 +1,39 @@
+/*kustom css tambahan seperlunya*/
+/*******/
+body{margin-top:50px;}
+.glyphicon { margin-right:10px; }
+.sidebar-body {
+	padding:0px;
+}
+.sidebar-body table tr td {
+	padding-left: 15px;
+}
+.sidebar-body .table {
+	margin-bottom: 0px;
+}
+/*******/
+#googleMap {
+	display: block;
+	width: 100%;
+	height: 500px;
+}
+#linechart {
+	display: block;
+	width: 500px;
+	height: 300px;
+}
+#linechart1 {
+	display: block;
+	width: 500px;
+	height: 300px;
+}
+#linechart2 {
+	display: block;
+	width: 500px;
+	height: 300px;
+}
+#piechart {
+	display: block;
+	width: 500px;
+	height: 300px;
+}
