@@ -11,6 +11,3 @@
 ## Instalasi
 - Download -> [Klik Disini](https://github.com/zulfinjuliant/template-bs3-gis/archive/master.zip)
 - Jalankan via browser, ketik http://127.0.0.1/template-bs3-gis
-
-## Lisensi
-- [GNU GPL V3](https://github.com/zulfinjuliant/template-bs3-gis/blob/master/LICENSE)
