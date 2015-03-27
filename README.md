@@ -1,15 +1,13 @@
 # Template Bootstrap 3 GIS
-![gambar bootangular](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Screenshot-Front%20End%20Skeleton%20-%20BootangV2%20-%20Chromium_zpsv6sdnpvi.png)
+![gambar dasbor](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Screenshot-Web%20App%20GIS%20-%20Chromium_zpsirisvjud.png)
+![gambar login](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Screenshot-Web%20App%20GIS%20-%20Chromium_zpsirisvjud.png)
+![gambar grafik satu](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Screenshot-Web%20App%20GIS%20-%20Chromium-1_zpsn9jxusjn.png)
+![gambar grafik dua](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Screenshot-Web%20App%20GIS%20-%20Chromium-2_zpswcspui44.png)
 
-## Tentang Framework
-- Angular Js 1.2.25
-- Bootswatch 3.3.2
-- Demo coba disini [Demo Bootangular-V2](http://zulfin.web.id/bootangular-v2)
+## Keterangan
+- Murni Bootstrap 3.3.4
 
-## Requirement
-- XAMPP / WAMPP Apache 2.x
-
-## Instalasi Framework
+## Instalasi
 - Download / clone Bootangular disini [Github Bootangular-V2](https://github.com/zulfinjuliant/bootangular-v2)
 - Rename folder dengan nama "bootangular-v2"
 - Taruh di htdocs local web server (pastikan sudah terinstall XAMPP/WAMP)
