@@ -1,5 +1,5 @@
 # Template Bootstrap 3 GIS
-![gambar dasbor](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Screenshot-Web%20App%20GIS%20-%20Chromium_zpsirisvjud.png)
+![gambar dasbor](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Untitled_zpsruqfnjfp.png)
 ![gambar login](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Screenshot-Login%20App%20GIS%20-%20Chromium_zpsshu0r2gs.png)
 ![gambar grafik satu](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Screenshot-Web%20App%20GIS%20-%20Chromium-1_zpsn9jxusjn.png)
 ![gambar grafik dua](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/Screenshot-Web%20App%20GIS%20-%20Chromium-2_zpswcspui44.png)
